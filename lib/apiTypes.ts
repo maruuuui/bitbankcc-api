@@ -25,6 +25,7 @@ export interface SendOrderRequest {
   price: number;
   side: string;
   type: string;
+  post_only?: boolean;
 }
 
 export interface GetOrderRequest {

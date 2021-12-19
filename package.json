@@ -33,7 +33,7 @@
     "ts-jest": "^21.0.0",
     "ts-node": "3",
     "tslint-config-airbnb": "^5.5.0",
-    "typescript": "^2.5.3"
+    "typescript": "^3.5.1"
   },
   "jest": {
     "transform": {
